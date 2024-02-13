@@ -1,0 +1,6 @@
+numpy
+fastapi
+uvicorn
+selenium==4.10.0
+webdriver-manager
+beautifulsoup4
